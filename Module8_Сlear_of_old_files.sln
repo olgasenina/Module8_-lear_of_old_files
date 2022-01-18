@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module8_Сlear_of_old_files", "Module8_Сlear_of_old_files\Module8_Сlear_of_old_files.csproj", "{398020B5-4CDE-4391-9C7C-273811701EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398020B5-4CDE-4391-9C7C-273811701EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398020B5-4CDE-4391-9C7C-273811701EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398020B5-4CDE-4391-9C7C-273811701EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398020B5-4CDE-4391-9C7C-273811701EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B024E58F-9063-408A-89F2-4802A7DFB6A7}
+	EndGlobalSection
+EndGlobal
